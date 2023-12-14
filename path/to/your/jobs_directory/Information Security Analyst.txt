@@ -1,0 +1,30 @@
+Information Security Analyst job description
+An Information Security Analyst is a professional in charge of designing and implementing protection for organization networks. They help set standards and maintain computer networks while protecting the company from cyber-attacks.
+
+Information Security Analyst responsibilities include:
+Monitoring computer networks for security issues
+Investigating security breaches and other cybersecurity incidents
+Installing security measures and operating software
+
+Job brief
+We are looking for a passionate and experienced Information Security Analyst to join our team. This person will always be looking for ways to better secure networks against ever-increasing threats.
+
+An Information Security Analyst’s responsibilities include monitoring networks for potential threats, installing software that protects from online vulnerabilities, documenting breaches and reporting issues so they can be adequately handled.
+
+Ultimately, you will install software such as firewalls to protect computers and monitor networks for any signs of intrusion while maintaining a working knowledge of new threats to cybersecurity.
+
+Responsibilities
+Protect systems and information infrastructure, including firewalls and data encryption programs
+Upgrade systems to enable security software
+Install and upgrade antivirus software
+Test and evaluate new technology
+Perform penetration testing
+Analyze IT requirements and provide objective advice on the use of IT security requirements
+Gather feedback from end-users to continue improving systems
+Requirements and skills
+Proven work experience as an Information Security Analyst or similar role
+Proficient with MAC and OS
+Excellent written and oral communication skills
+Experienced with penetration testing and techniques
+Ability to identify and mitigate network vulnerabilities
+MBA in Information Systems preferred
